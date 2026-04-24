@@ -26,7 +26,7 @@
 ### 🧠 O mnie
 
 - 🏢 CEO EzBLOCK.PL  
-- 💻 Developer Desingly.PL  
+- 💻 Menedżer, Bot Developer IceCode.TECH
 - ❌ Nie robię rzeczy na zamówienie (dla serwerów, osób)
 
 ---
