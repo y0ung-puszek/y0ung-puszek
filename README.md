@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 » CEO EzBLOCK.PL |
+  🚀 » CEO EzBLOCK.PL  ✕
   👤 » Menedżer, Bot Developer EnderFrame.PL
 </p>
 
