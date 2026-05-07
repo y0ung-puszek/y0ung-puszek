@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  🚀 CEO EzBLOCK.PL
+  🚀 » CEO EzBLOCK.PL
+  👤 » Menedżer, Bot Developer EnderFrame.PL
 </p>
 
 <p align="center">
@@ -26,7 +27,7 @@
 ### 🧠 O mnie
 
 - 🏢 CEO EzBLOCK.PL  
-- 💻 Menedżer, Bot Developer IceCode.TECH
+- 💻 Menedżer, Bot Developer EnderFrame.PL
 - ❌ Nie robię rzeczy na zamówienie (dla serwerów, osób)
 
 ---
