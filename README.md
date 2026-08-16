@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  🚀 » CEO EzBLOCK.PL   ✕
-  👤 » Menedżer, Bot Developer EnderFrame.PL
+  🚀 » CEO LoftMC.PL   ✕
+  👤 » Bot Developer ???.PL
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dc.ezblock.pl">
+  <a href="https://dc.loftmc.pl">
     <img src="https://img.shields.io/badge/DISCORD-EZBLOCK-blue?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://youtube.com">
@@ -26,8 +26,8 @@
 
 ### 🧠 O mnie
 
-- 🏢 CEO EzBLOCK.PL  
-- 💻 Menedżer, Bot Developer EnderFrame.PL
+- 🏢 CEO LoftMC.PL.PL  
+- 💻 Bot Developer ???.PL
 - ❌ Nie robię rzeczy na zamówienie (dla serwerów, osób)
 
 ---
