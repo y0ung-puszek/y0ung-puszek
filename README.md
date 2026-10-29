@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 » CEO LoftMC.PL   ✕
+  🚀 » CEO S**MC.PL   ✕
   👤 » Bot Developer ???.PL
 </p>
 
@@ -26,7 +26,7 @@
 
 ### 🧠 O mnie
 
-- 🏢 CEO LoftMC.PL.PL  
+- 🏢 CEO S**MC.PL.
 - 💻 Bot Developer ???.PL
 - ❌ Nie robię rzeczy na zamówienie (dla serwerów, osób)
 
@@ -51,7 +51,7 @@
 ### ⏱ Code Stats
 
 <p align="center">
-  ⏳ Ponad 20h kodowania  
+  ⏳ Ponad 50h kodowania  
   <br>
   🔗 Link: soon
 </p>
