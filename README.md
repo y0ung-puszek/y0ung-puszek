@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 » CEO S**MC.PL   ✕
+  🚀 » CEO MC.PL   ✕
   👤 » Bot Developer ???.PL
 </p>
 
@@ -26,8 +26,8 @@
 
 ### 🧠 O mnie
 
-- 🏢 CEO S**MC.PL.
-- 💻 Bot Developer ???.PL
+- 🏢 CEO .PL
+- 💻 Bot Developer ???MC.PL
 - ❌ Nie robię rzeczy na zamówienie (dla serwerów, osób)
 
 ---
